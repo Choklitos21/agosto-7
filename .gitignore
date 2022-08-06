@@ -1,0 +1,5 @@
+#Modulos de node
+node-modules
+
+#No comprometer el .env
+.env
