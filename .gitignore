@@ -3,3 +3,7 @@ node-modules
 
 #No comprometer el .env
 .env
+
+#
+nest-postgres
+
